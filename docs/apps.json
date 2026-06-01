@@ -3,13 +3,11 @@
   "apps": [
     {
       "id": "jp.pipo.janken",
-      "url": "https://janken.pipo.jp/",
-      "icon": "icon.png"
+      "url": "https://janken.pipo.jp/"
     },
     {
       "id": "jp.pipo.yokaidx",
-      "url": "https://yokai.pipo.jp/",
-      "icon": "icon.png"
+      "url": "https://yokai.pipo.jp/"
     }
   ]
 }
